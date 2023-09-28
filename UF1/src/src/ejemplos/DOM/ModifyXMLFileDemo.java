@@ -39,7 +39,7 @@ public class ModifyXMLFileDemo {
                         if ("Ferrari 101".equals(element.getTextContent())) {
                             element.setTextContent("Lamborgini 101");
                         }
-                        if ("Ferrari 202".equals(element.getTextContent())) {
+                        if ("Ferrari 201".equals(element.getTextContent())) {
                             element.setTextContent("Lamborgini 202");
                         }
                     }
